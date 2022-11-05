@@ -3,7 +3,7 @@ import { createDrawerNavigator } from '@react-navigation/drawer';
 import { Ionicons } from '@expo/vector-icons';
 
 import WelcomeScreen from './screens/WelcomeScreen';
-import  UserScreen from './screens/UserScreen';
+import UserScreen from './screens/UserScreen';
 
 const Drawer = createDrawerNavigator();
 
